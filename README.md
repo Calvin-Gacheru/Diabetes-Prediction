@@ -121,10 +121,6 @@ Lowering the decision threshold recovers more diabetic cases. In the current run
 
 The class-weighted model goes further by pushing recall to 0.88, which is the target behavior for a first-pass screening tool.
 
-![XGBoost ROC Curve](visualizations/xgboost_roc_curve.png)
-
-The ROC curve complements the confusion matrices by showing the model’s trade-off across thresholds rather than at a single operating point.
-
 Additional validation from the notebook:
 
 - 5-fold recall cross-validation for the class-weighted XGBoost produced scores of 0.87988209, 0.87997054, 0.86956522, 0.86809138, and 0.89093589.
