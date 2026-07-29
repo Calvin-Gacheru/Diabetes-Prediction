@@ -165,7 +165,7 @@ This matters because the model does not operate on raw user inputs. It expects s
 To reproduce this project from GitHub, fork the repository and clone your fork locally.
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/Calvin-Gacheru/Diabetes-Prediction
 cd Diabetes-Prediction
 ```
 
